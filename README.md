@@ -1,7 +1,22 @@
-# Demo React Form
+# React Form Starter
 
-## Getting Started
+A starter project focused on react form, built with React with Vite.
 
+## Use this template
+
+```bash
+npx create-next-app -e https://github.com/colbyfayock/demo-react-form-starter
 ```
-npx degit colbyfayock/demo-react-form-starter my-react-file-upload
+
+## Local setup
+
+Install dependencies with npm and start the development server:
+
+```bash
+npm install
+npm run dev
 ```
+
+Use the local URL printed by the development server.
+
+Use `npm run build` to build the project.
